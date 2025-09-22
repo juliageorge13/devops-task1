@@ -15,3 +15,4 @@ App runs at http://localhost:3000
 ## Docker (locally)
 docker build -t your-dockerhub-username/demo-node-app:latest .
 docker run -p 3000:3000 your-dockerhub-username/demo-node-app:latest
+Updated for CI/CD test run
